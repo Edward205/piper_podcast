@@ -20,3 +20,5 @@ python podcast.py <speaker 1>.onnx <speaker 2>.onnx <text>.txt
 
 ## Demo
 Based on text from this article: https://en.wikipedia.org/wiki/IP_over_Avian_Carriers
+
+https://github.com/user-attachments/assets/efa0941f-d146-40ff-acc1-91f59d64ea59
